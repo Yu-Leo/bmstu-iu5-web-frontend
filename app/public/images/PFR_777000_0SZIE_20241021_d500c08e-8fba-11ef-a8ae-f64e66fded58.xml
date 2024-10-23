@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ЭДПФР xmlns="http://пф.рф/УТ/2017-08-21" xmlns:ns2="http://пф.рф/СТД-ПФР/2020-10-02" xmlns:ns4="http://www.w3.org/2000/09/xmldsig#" xmlns:ns3="http://пф.рф/АФ/2018-12-07">
+    <ns2:СТД-ПФР>
+        <ns2:ЗЛ>
+            <ФИО>
+                <Фамилия>ЮВЕНСКИЙ</Фамилия>
+                <Имя>ЛЕВ</Имя>
+                <Отчество>АЛЕКСАНДРОВИЧ</Отчество>
+            </ФИО>
+            <СНИЛС>186-455-600 00</СНИЛС>
+            <ДатаРождения>2004-08-22</ДатаРождения>
+        </ns2:ЗЛ>
+        <ns2:Заявления>
+            <ns2:ДатаПредоставления>2023-08-28</ns2:ДатаПредоставления>
+        </ns2:Заявления>
+        <ns2:Мероприятие>
+            <ns2:Работодатель>
+                <РегНомер>087-216-000470</РегНомер>
+                <ns2:НаименованиеОрганизации>Общество с ограниченной ответственностью "ВК"</ns2:НаименованиеОрганизации>
+                <ИНН>7743001840</ИНН>
+                <КПП>771401001</КПП>
+            </ns2:Работодатель>
+            <ns2:UUID>10014514-9010-2023-0828-040000000000</ns2:UUID>
+            <ns2:Дата>2023-08-28</ns2:Дата>
+            <ns2:Вид>1</ns2:Вид>
+            <ns2:Сведения>Прием</ns2:Сведения>
+            <ns2:Должность>Младший программист</ns2:Должность>
+            <ns2:ЯвляетсяСовместителем>0</ns2:ЯвляетсяСовместителем>
+            <ns2:СтруктурноеПодразделение>Департамент рекламных технологий / Направление технической разработки / Системная разработка</ns2:СтруктурноеПодразделение>
+            <ns2:КодВФпоОКЗ>2514.9</ns2:КодВФпоОКЗ>
+            <ns2:Основание>
+                <ns2:Наименование>Приказ</ns2:Наименование>
+                <ns2:Дата>2023-08-28</ns2:Дата>
+                <ns2:Номер>2103-П</ns2:Номер>
+            </ns2:Основание>
+        </ns2:Мероприятие>
+        <ns2:Мероприятие>
+            <ns2:Работодатель>
+                <РегНомер>087-216-000470</РегНомер>
+                <ns2:НаименованиеОрганизации>Общество с ограниченной ответственностью "ВК"</ns2:НаименованиеОрганизации>
+                <ИНН>7743001840</ИНН>
+                <КПП>771401001</КПП>
+            </ns2:Работодатель>
+            <ns2:UUID>10014514-9310-2024-1008-050000000000</ns2:UUID>
+            <ns2:Дата>2024-10-07</ns2:Дата>
+            <ns2:Вид>5</ns2:Вид>
+            <ns2:Сведения>Увольнение</ns2:Сведения>
+            <ns2:Должность>Младший программист</ns2:Должность>
+            <ns2:ЯвляетсяСовместителем>0</ns2:ЯвляетсяСовместителем>
+            <ns2:СтруктурноеПодразделение>Департамент рекламных технологий / Направление технической разработки / Системная разработка</ns2:СтруктурноеПодразделение>
+            <ns2:КодВФпоОКЗ>2514.9</ns2:КодВФпоОКЗ>
+            <ns2:ОснованиеУвольнения>
+                <ns2:Тип>ТК РФ</ns2:Тип>
+                <ns2:НормативныйДокумент>Трудовой Кодекс Российской Федерации </ns2:НормативныйДокумент>
+                <ns2:Статья>77</ns2:Статья>
+                <ns2:Часть>1</ns2:Часть>
+                <ns2:Пункт>3</ns2:Пункт>
+            </ns2:ОснованиеУвольнения>
+            <ns2:Причина>По собственному желанию, пункт 3 части первой статьи 77 Трудового Кодекса Российской Федерации</ns2:Причина>
+            <ns2:Основание>
+                <ns2:Наименование>Приказ</ns2:Наименование>
+                <ns2:Дата>2024-10-04</ns2:Дата>
+                <ns2:Номер>1665-У</ns2:Номер>
+            </ns2:Основание>
+        </ns2:Мероприятие>
+        <ns2:ДатаФормирования>2024-10-21</ns2:ДатаФормирования>
+    </ns2:СТД-ПФР>
+    <ns2:СлужебнаяИнформация>
+        <ns3:GUID>430403cf-51d5-4c12-b69f-4a9005daa159</ns3:GUID>
+        <ns3:ДатаВремя>2024-10-21T17:43:38.970+03:00</ns3:ДатаВремя>
+    </ns2:СлужебнаяИнформация>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="urn:ietf:params:xml:ns:cpxmlsec:algorithms:gostr34102012-gostr34112012-256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="urn:ietf:params:xml:ns:cpxmlsec:algorithms:gostr34112012-256"/><DigestValue>2HVB5NfQMLvw4DbHZBFB06B7g+TuWF/0Zxjq0jkIReg=</DigestValue></Reference></SignedInfo><SignatureValue>alBY50A/AtmZ/H6kgr2pRTxge8ALOlxVbWAT/REWj9zWkbV6KUipPbmBupaHHWXg
+WYmpENlZXjO1/zIOJPoOmA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIvzCCCGygAwIBAgIRALQqQJ8yMCaiqInA0Y9D7dkwCgYIKoUDBwEBAwIwggFh
+MSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEYMBYGA1UECAwPNzcg
+0JzQvtGB0LrQstCwMRUwEwYFKoUDZAQSCjc3MTA1Njg3NjAxGDAWBgUqhQNkARIN
+MTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQ
+vtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHR
+gtGA0L7QtdC90LjQtSAxMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMQswCQYD
+VQQGEwJSVTEuMCwGA1UECgwl0JrQsNC30L3QsNGH0LXQudGB0YLQstC+INCg0L7R
+gdGB0LjQuDE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQ
+vdCw0YfQtdC50YHRgtCy0L4wHhcNMjQwNjE4MDczNzQwWhcNMjUwOTExMDczNzQw
+WjCCAcAxCzAJBgNVBAYTAlJVMRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMSEw
+HwYDVQQJDBjQqNCw0LHQvtC70L7QstC60LAsINC0LjQxGTAXBgNVBAcMENCzLiDQ
+nNC+0YHQutCy0LAxgYEwfwYDVQQKDHjQpNCe0J3QlCDQn9CV0J3QodCY0J7QndCd
+0J7Qk9CeINCYINCh0J7QptCY0JDQm9Cs0J3QntCT0J4g0KHQotCg0JDQpdCe0JLQ
+kNCd0JjQryDQoNCe0KHQodCY0JnQodCa0J7QmSDQpNCV0JTQldCg0JDQptCY0Jgx
+GDAWBgUqhQNkARINMTAyNzcwMDIyMDYyNDEVMBMGBSqFA2QEEgo3NzA2MDE2MTE4
+MR8wHQYJKoZIhvcNAQkBFhBva2RpckBzZnIuZ292LnJ1MYGBMH8GA1UEAwx40KTQ
+ntCd0JQg0J/QldCd0KHQmNCe0J3QndCe0JPQniDQmCDQodCe0KbQmNCQ0JvQrNCd
+0J7Qk9CeINCh0KLQoNCQ0KXQntCS0JDQndCY0K8g0KDQntCh0KHQmNCZ0KHQmtCe
+0Jkg0KTQldCU0JXQoNCQ0KbQmNCYMGYwHwYIKoUDBwEBAQEwEwYHKoUDAgIkAAYI
+KoUDBwEBAgIDQwAEQP8T7QQo6t7dzjA7bW26crsBtplgsjLnTnK9+E5UNcy6JmzC
+l6wowkfoVmK/sdw1b7anGS2Y1gPjGhay1RVAZbijggSTMIIEjzAOBgNVHQ8BAf8E
+BAMCA/gwEwYDVR0lBAwwCgYIKwYBBQUHAwIwHQYDVR0gBBYwFDAIBgYqhQNkcQEw
+CAYGKoUDZHECMAwGBSqFA2RyBAMCAQAwHAYFKoUDZG8EEwwRVmlQTmV0IFBLSSBD
+bGllbnQwggGhBgUqhQNkcASCAZYwggGSDIGH0J/RgNC+0LPRgNCw0LzQvNC90L4t
+0LDQv9C/0LDRgNCw0YLQvdGL0Lkg0LrQvtC80L/Qu9C10LrRgSBWaVBOZXQgUEtJ
+IFNlcnZpY2UgKNC90LAg0LDQv9C/0LDRgNCw0YLQvdC+0Lkg0L/Qu9Cw0YLRhNC+
+0YDQvNC1IEhTTSAyMDAwUTIpDGjQn9GA0L7Qs9GA0LDQvNC80L3Qvi3QsNC/0L/Q
+sNGA0LDRgtC90YvQuSDQutC+0LzQv9C70LXQutGBIMKr0K7QvdC40YHQtdGA0YIt
+0JPQntCh0KLCuy4g0JLQtdGA0YHQuNGPIDQuMAxNQ9C10YDRgtC40YTQuNC60LDR
+giDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSW0KHQpC8xMjQtNDMyOCDQvtGC
+IDI5LjA4LjIwMjIMTUPQtdGA0YLQuNGE0LjQutCw0YIg0YHQvtC+0YLQstC10YLR
+gdGC0LLQuNGPIOKEltCh0KQvMTI4LTQ2Mzkg0L7RgiAwNC4xMC4yMDIzMGYGA1Ud
+HwRfMF0wLqAsoCqGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAy
+NC5jcmwwK6ApoCeGJWh0dHA6Ly9jcmwuZmsubG9jYWwvY3JsL3VjZmtfMjAyNC5j
+cmwwdwYIKwYBBQUHAQEEazBpMDQGCCsGAQUFBzAChihodHRwOi8vY3JsLnJvc2th
+em5hLnJ1L2NybC91Y2ZrXzIwMjQuY3J0MDEGCCsGAQUFBzAChiVodHRwOi8vY3Js
+LmZrLmxvY2FsL2NybC91Y2ZrXzIwMjQuY3J0MB0GA1UdDgQWBBT+5Nc6jpllu3+R
+TMz7TslMdV4fZjCCAXYGA1UdIwSCAW0wggFpgBQGZBOnzuCD4qZ9n4mn1lYZmEzZ
+p6GCAUOkggE/MIIBOzEhMB8GCSqGSIb3DQEJARYSZGl0QGRpZ2l0YWwuZ292LnJ1
+MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQH
+DBDQsy4g0JzQvtGB0LrQstCwMVMwUQYDVQQJDErQn9GA0LXRgdC90LXQvdGB0LrQ
+sNGPINC90LDQsdC10YDQtdC20L3QsNGPLCDQtNC+0LwgMTAsINGB0YLRgNC+0LXQ
+vdC40LUgMjEmMCQGA1UECgwd0JzQuNC90YbQuNGE0YDRiyDQoNC+0YHRgdC40Lgx
+GDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEVMBMGBSqFA2QEEgo3NzEwNDc0Mzc1
+MSYwJAYDVQQDDB3QnNC40L3RhtC40YTRgNGLINCg0L7RgdGB0LjQuIIKbAnAdgAA
+AAAJjDAKBggqhQMHAQEDAgNBACrcJna509ShtpUBOpIJUTV82LqYBj389kO8WQPK
+cFdQAAJi2+KUXuEW+x2bi96zwuCVeemUzphr1xQQDIskTNg=</X509Certificate><X509SubjectName>CN=ФОНД ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ, E=okdir@sfr.gov.ru, 1.2.643.100.4=7706016118, OGRN=1027700220624, O=ФОНД ПЕНСИОННОГО И СОЦИАЛЬНОГО СТРАХОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ, L=г. Москва, STREET="Шаболовка, д.4", S=г. Москва, C=RU</X509SubjectName><X509IssuerSerial><X509IssuerName>CN=Федеральное казначейство, O=Казначейство России, C=RU, L=г. Москва, STREET="Большой Златоустинский переулок, д. 6, строение 1", OGRN=1047797019830, 1.2.643.100.4=7710568760, S=77 Москва, E=uc_fk@roskazna.ru</X509IssuerName><X509SerialNumber>239480426396368254738872456194415652313</X509SerialNumber></X509IssuerSerial><X509SKI>/uTXOo6ZZbt/kUzM+07JTHVeH2Y=</X509SKI></X509Data></KeyInfo></Signature></ns2:ЭДПФР>
